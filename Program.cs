@@ -47,7 +47,7 @@
 //{
 //    if (streeem.Length == 5)
 //    {
-//        double result = ((num_a * 0.18) * 0.3);
+//        double result = ((num_a * 0.18) * 0.03);
 //        Console.WriteLine(result);
 //        break;
 
