@@ -70,7 +70,7 @@
 //    if (streem.Length == 3)
 //    {
 //        int numa = num_3 * 10 + 7;
-//        double result = numa * 0.7;
+//        double result = numa * 0.07;
 //        Console.WriteLine(result);
 //        break;
 //    }
